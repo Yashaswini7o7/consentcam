@@ -1,0 +1,9 @@
+models/*.onnx
+models/*.hef
+data/
+*.npz
+*.mp4
+*.avi
+out*.jpg
+__pycache__/
+.venv/
